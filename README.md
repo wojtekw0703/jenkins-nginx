@@ -27,7 +27,7 @@ This project integrates Jenkins with Nginx, using Nginx as a reverse proxy to fo
 ## Make the app available - step by step
 - clone the repo
 - launch Docker Desktop
-- go to project/jenkins-master
+- go to project/jenkins-master 
 - run <i> docker build -t jenkins-master . </i>
 - go to project/jenkins-nginx
 - run <i> docker build -t jenkins-nginx . </i>
